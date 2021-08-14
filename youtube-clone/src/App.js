@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from "./Header"
 import Sidebar from "./Sidebar"
+import RecommendedVideos from "./RecommendedVideos"
 import './App.css';
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
         <Sidebar/>
 
         {/* ------ Videos ------- */}
+        <RecommendedVideos/>
       </div>
     </div>
   );
