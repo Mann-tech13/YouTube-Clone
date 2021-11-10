@@ -40,3 +40,10 @@
     background-color: #fafafa;
     border-left: 1px solid lightgray;
 }
+
+.vc,
+.ai,
+.ni,
+.av {
+    padding: 0, 5px;
+}
